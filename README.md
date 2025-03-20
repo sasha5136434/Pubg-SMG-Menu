@@ -7,7 +7,7 @@
 
 # Installation Guide 
 
-    Download the hack menu from the link above.
+    Download the hack menu from the button above.
     Extract the files from the downloaded zip folder.
     Launch the hack menu executable file.
     Customize your settings and enjoy dominating PUBG matches!
